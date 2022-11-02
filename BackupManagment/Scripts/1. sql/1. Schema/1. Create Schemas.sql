@@ -1,0 +1,8 @@
+USE [DbAdmin]
+GO
+
+CREATE SCHEMA [DBBackup] AUTHORIZATION [dbo]
+GO
+
+CREATE SCHEMA [Utility] AUTHORIZATION [dbo]
+GO
